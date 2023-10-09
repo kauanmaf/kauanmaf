@@ -13,8 +13,8 @@
 <div>
   <p align = center>
     <a href = "https://github.com/kauanmaf">
-    <img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=kauanmaf&show_icons=true&theme=highcontrast">
-    <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmaf&layout=compact&theme=highcontrast">
+    <img height = "175em" src = "https://github-readme-stats.vercel.app/api?username=kauanmaf&show_icons=true&theme=highcontrast">
+    <img height = "175em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmaf&layout=compact&theme=highcontrast">
   </p>
 </div>
 
